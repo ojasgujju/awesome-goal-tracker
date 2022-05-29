@@ -15,7 +15,7 @@ export default function Home() {
     <LightMode>
       <div className={styles.container}>
         <Head>
-          <title>Awesome Goal tracker</title>
+          <title>Aakash Personal Web</title>
           <meta
             name="description"
             content="Manage Your Todo-list,meetings,notes and more..."
