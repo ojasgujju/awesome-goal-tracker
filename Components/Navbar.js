@@ -79,7 +79,7 @@ const Navbar = () => {
             mx="5"
             fontWeight="bold"
           >
-            Awesome-Goal-Tracker
+            Aakash Personal Web
           </Text>
           <Show above="md">
             <Box
