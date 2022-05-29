@@ -41,7 +41,7 @@ export default function Home() {
             textAlign="center"
           >
             <Text fontSize="3xl" fontWeight="bold" my="15px">
-              <span className={styles.highlighted}>Awesome Goal Tracker</span>
+              <span className={styles.highlighted}>Aakash Personal Web</span>
             </Text>
             <Text textAlign="center" my="15px" fontWeight="bold">
               Track Your daily progress,meetings,notes and more...
